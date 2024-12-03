@@ -1,4 +1,4 @@
-Ribonucleic-Acid is genetic material having structure similar to DNA but with just one strand.
+Ribonucleic acid is a genetic material with a structure similar to DNA but with just one strand.
 
 ## Anatomy
 
@@ -11,7 +11,7 @@ Ribonucleic-Acid is genetic material having structure similar to DNA but with ju
 - Guanine
 - Cytosine
 
-## Base pirs
+## Base pairs
 
 - Adenine == Uracil
 - Guanine == Cytosine

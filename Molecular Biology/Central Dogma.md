@@ -1,13 +1,12 @@
-
 **DNA -> RNA -> Protein**
 
-  The definition above is simple but the most basic one.
-  what it means is,
-  
-  - nucleic acid -> nucleic acid is possible.
-  - nucleic acid -> proteins is possible.
-  - protein -> nucleic acid is impossible.
-  - protein -> protein  is also impossible.
+The definition above is simple but the most basic one.
+what it means is,
+
+- nucleic acid -> nucleic acid is possible.
+- nucleic acid -> proteins is possible.
+- protein -> nucleic acid is impossible.
+- protein -> protein is also impossible.
 
 ## General transfer of biological sequence info
 
@@ -20,6 +19,6 @@
 
 ## Links
 
-- [wikipedia](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology)
+- [Wikipedia](https://en.wikipedia.org/wiki/Central_dogma_of_molecular_biology)
 - [[DNA]]
 - [[RNA]]

@@ -4,7 +4,7 @@ DNA stands for Deoxyribose-Nucleic-Acid.
 
 **Strands/backbone**: the strands are made up of Deoxyribose sugars and phosphate(acidic).
 
-**Ladder / base pairs**: the ladder of DNA is made up of combination of 4 molecules that form 2 base pairs.
+**Ladder/base pairs**: The ladder of DNA is made up of combination of 4 molecules that form 2 base pairs.
 
 - Adenine
 - Thymine

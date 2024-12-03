@@ -40,7 +40,7 @@ Similar to user agents, origin servers are not only traditional servers but can 
 ### Intermediaries
 A program that acts as a middleman between a client and a server.
 #### Intermediary Types:
-- **Proxy**: A message forwarding agent that acts on behalf of a client.
+- **Proxy**: A message-forwarding agent that acts on behalf of a client.
 - **Gateway**: Also known as a reverse proxy, a message forwarding agent that acts on behalf of an origin server.
 - **Tunnel**: A message forwarding agent that acts on behalf of both a client and an origin server.
 
