@@ -21,9 +21,3 @@ Under normal conditions, we might expect `count` to increment twice. But without
 3. Both threads write `count = 6`, and the increment from one thread is lost.
 
 To prevent this, synchronization mechanisms like [[mutex]] are used.
-
----
-
----
-
-This should fit well into your existing note style and reference system.

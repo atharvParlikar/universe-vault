@@ -6,6 +6,8 @@ use mutex for multithreaded programming if you have global shared resources.
 
 mutex is a synchronization mechanism to prevent multiple threads from accessing and changing a global shared value.
 
+mutex is a type of [lock](locks) 
+
 ### How does a mutex work / how to use it.
 
 To prevent two threads from accessing the global shared resource at the same time (to prevent [[race conditions]]), mutex basically locks the resource while a single thread is using it,
