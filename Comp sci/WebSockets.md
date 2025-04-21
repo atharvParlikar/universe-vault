@@ -3,7 +3,7 @@
 - A WebSocket connection starts as a regular HTTP request. This is because most browsers and networking layers only support opening WebSocket connections over HTTP or HTTPS.
     
 - The HTTP request has a header indicating that it intends to upgrade to a WebSocket connection. The server then reads that header and replies with an upgrade-acknowledgment header. Once this handshake is completed, the connection is upgraded to a WebSocket connection.
-    
+
 
 Upgrade header example:
 

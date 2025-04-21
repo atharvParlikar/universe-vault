@@ -1,8 +1,6 @@
-# HTTP/1.0 Protocol
-
 Documentation source: [RFC 9110](https://www.rfc-editor.org/rfc/rfc9110.html)
 
-## Terminology and Core Concepts
+##  Terminology and Core Concepts
 
 ### Resources
 Resource is the target of an HTTP request and is identified by a URI (Uniform Resource Identifier).
